@@ -1,4 +1,4 @@
-<!--- Hi 👋 My name is Bruno Negri
+<!-- Hi, My name is Bruno Negri
 ============================
 - Pronouns: Ele/Dele
 

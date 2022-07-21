@@ -1,4 +1,4 @@
-<!-- Hi, My name is Bruno Negri
+ Hi, My name is Bruno Negri
 ============================
 - Pronouns: Ele/Dele
 
@@ -38,8 +38,3 @@ Atualmente estudo Desenvolvimento Web Fullstack na Trybe, gosto de trabalhar em 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> 
 
-
-
-
-
--->

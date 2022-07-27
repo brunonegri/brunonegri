@@ -1,8 +1,7 @@
  Hi, My name is Bruno Negri
 ============================
-- Pronouns: Ele/Dele
 
-Atualmente estudo Desenvolvimento Web Fullstack na Trybe, gosto de trabalhar em equipe, busco constante evolução em cada projeto, procuro sempre inovar e ser criativo. - Em busca de novos desafios!
+I am currently studying Fullstack Web Development at Trybe, I like to work as a team, I seek constant evolution in each project, I always try to innovate and be creative. - Looking for new challenges!
 
 * ✉️  You can contact me at [b.negri\_@hotmail.com](mailto:b.negri_@hotmail.com)
 

@@ -1,7 +1,7 @@
  Hi, My name is Bruno Negri
 ============================
 
-I am currently studying Fullstack Web Development at Trybe, I like to work as a team, I seek constant evolution in each project, I always try to innovate and be creative. - Looking for new challenges!
+I am currently studying Full Stack Web Development at Trybe, I like to work as a team, I seek constant evolution in each project, I always try to innovate and be creative. - Looking for new challenges!
 
 * ✉️  You can contact me at [b.negri\_@hotmail.com](mailto:b.negri_@hotmail.com)
 

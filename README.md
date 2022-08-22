@@ -36,9 +36,9 @@ I am currently studying Full Stack Web Development at Trybe, I like to work as a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/brunonegri"><img src="https://github-readme-stats.vercel.app/api?username=brunonegri&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="brunonegri's GitHub stats" /></a>
+<a href="http://www.github.com/brunonegri"><img src="https://github-readme-stats.vercel.app/api?username=brunonegri&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=0f172aa&hide_border=true&show_icons=true" alt="brunonegri's GitHub stats" /></a>
 
-<a href="https://github.com/brunonegri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonegri&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/brunonegri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonegri&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=0f172aa&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 

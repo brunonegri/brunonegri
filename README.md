@@ -6,7 +6,6 @@ Front-End Developer
 
 I am currently studying Full Stack Web Development at Trybe, I like to work as a team, I seek constant evolution in each project, I always try to innovate and be creative. - Looking for new challenges!
 
-* 🌍  I'm based in Piracicaba - SP
 * 🖥️  See my portfolio at [Portfolio](http://https://brunonegri.netlify.app/)
 * ✉️  You can contact me at [b.negri\_@hotmail.com](mailto:b.negri_@hotmail.com)
 

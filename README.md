@@ -1,7 +1,7 @@
 Hi, My name is Bruno Negri
 ============================
 
-Front-End Developer
+FullStack Web Developer
 -----------------------
 
 I am currently studying Full Stack Web Development at Trybe, I like to work as a team, I seek constant evolution in each project, I always try to innovate and be creative. - Looking for new challenges!

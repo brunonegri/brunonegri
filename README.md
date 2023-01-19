@@ -1,4 +1,4 @@
-Olá, eu sou Bruno Negri
+Olá, meu nome Bruno Negri
 ============================
 
 Desenvolvedor Web FullStack

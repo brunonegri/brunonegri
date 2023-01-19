@@ -1,13 +1,16 @@
-Hi, My name is Bruno Negri
+Olá, eu sou Bruno Negri
 ============================
 
-FullStack Web Developer
+Desenvolvedor Web FullStack
 -----------------------
 
-I am currently studying Full Stack Web Development at Trybe, I like to work as a team, I seek constant evolution in each project, I always try to innovate and be creative. - Looking for new challenges!
+Prazer, eu sou Bruno.
+Desde criança sempre gostei de duas coisas: Tecnologia e criar coisas novas, e foi assim segui a carreira de projetista 3D por alguns anos, agora estou em transição de carreira e vou continuar fazendo aquilo que eu mais gosto e tenho muita pratica.
+Hoje estudo Desenvolvimento Web Fullstack na Trybe, tive a honra de conhecer professores excepcionais dos quais absorvi o máximo de conhecimento, liderei e desenvolvi alguns projetos em equipe aprimorando ainda mais minhas habilidades. estou em busca de uma oportunidade para colocar em pratica tudo oque eu aprendi.
+Gosto de desafios e de solucionar problemas!
 
-* 🖥️  See my portfolio at [Portfolio](http://https://brunonegri.netlify.app/)
-* ✉️  You can contact me at [b.negri\_@hotmail.com](mailto:b.negri_@hotmail.com)
+* 🖥️  Veja meu portfolio [Portfolio](http://https://brunonegri.netlify.app/)
+* ✉️  Entre em contato [b.negri\_@hotmail.com](mailto:b.negri_@hotmail.com)
 
 ### Skills
 

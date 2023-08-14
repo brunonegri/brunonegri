@@ -9,7 +9,7 @@ Desde criança sempre gostei de duas coisas: Tecnologia e criar coisas novas, e 
 Hoje estudo Desenvolvimento Web Fullstack na Trybe, tive a honra de conhecer professores excepcionais dos quais absorvi o máximo de conhecimento, liderei e desenvolvi alguns projetos em equipe aprimorando ainda mais minhas habilidades. estou em busca de uma oportunidade para colocar em pratica tudo oque eu aprendi.
 Gosto de desafios e de solucionar problemas!
 
-* 🖥️  Veja meu portfolio [Portfolio](http://https://brunonegri.netlify.app/)
+* 🖥️  Veja meu portfolio [Portfolio](https://brunonegri.netlify.app/)
 * ✉️  Entre em contato [b.negri\_@hotmail.com](mailto:b.negri_@hotmail.com)
 
 ### Tecnologias

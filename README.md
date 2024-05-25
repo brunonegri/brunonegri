@@ -5,8 +5,8 @@ Desenvolvedor Web FullStack
 -----------------------
 
 Prazer, eu sou Bruno.
-Desde criança sempre gostei de duas coisas: Tecnologia e criar coisas novas, e foi assim segui a carreira de projetista 3D por alguns anos, agora estou em transição de carreira e vou continuar fazendo aquilo que eu mais gosto e tenho muita pratica.
-Hoje estudo Desenvolvimento Web Fullstack na Trybe, tive a honra de conhecer professores excepcionais dos quais absorvi o máximo de conhecimento, liderei e desenvolvi alguns projetos em equipe aprimorando ainda mais minhas habilidades. estou em busca de uma oportunidade para colocar em pratica tudo oque eu aprendi.
+Formado em Desenvolvimento Web Fullstack na Trybe, tive o privilegio de conhecer professores excepcionais, liderei e desenvolvi alguns projetos em equipe.
+
 Gosto de desafios e de solucionar problemas!
 
 * 🖥️  Veja meu portfolio [Portfolio](https://brunonegri.netlify.app/)
